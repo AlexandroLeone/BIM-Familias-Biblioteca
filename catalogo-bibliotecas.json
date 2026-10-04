@@ -1,95 +1,95 @@
-﻿{
-    "schemaVersion":  1,
-    "generatedAtUtc":  "2026-10-03T20:14:15.6743698Z",
-    "repository":  "https://github.com/AlexandroLeone/BIM-Familias-Biblioteca",
-    "packages":  [
-                     {
-                         "name":  "biblioteca-cozinha-01.zip",
-                         "category":  "01 - Cozinha",
-                         "version":  "v1.0.0",
-                         "sizeBytes":  1483195241,
-                         "sha256":  "f33fc4488e3848e41166ed6cf8d1979fae0bb570b9d8bfc2504baaecee204390",
-                         "url":  "https://github.com/AlexandroLeone/BIM-Familias-Biblioteca/releases/download/v1.0.0/biblioteca-cozinha-01.zip"
-                     },
-                     {
-                         "name":  "biblioteca-cozinha-02.zip",
-                         "category":  "01 - Cozinha",
-                         "version":  "v1.0.0",
-                         "sizeBytes":  1500826103,
-                         "sha256":  "c95f337e07e7864fbf827bb6bb8d1b0632f3141cf928d8033e3b6cd896c69ab2",
-                         "url":  "https://github.com/AlexandroLeone/BIM-Familias-Biblioteca/releases/download/v1.0.0/biblioteca-cozinha-02.zip"
-                     },
-                     {
-                         "name":  "biblioteca-sala-01.zip",
-                         "category":  "02 - Sala",
-                         "version":  "v1.0.0",
-                         "sizeBytes":  1498108559,
-                         "sha256":  "7a3be090a0a81203cae2c71d417ff0cdd4f4b53b7bbafd0a1afc31154f971400",
-                         "url":  "https://github.com/AlexandroLeone/BIM-Familias-Biblioteca/releases/download/v1.0.0/biblioteca-sala-01.zip"
-                     },
-                     {
-                         "name":  "biblioteca-banheiro-01.zip",
-                         "category":  "04 - Banheiro",
-                         "version":  "v1.0.0",
-                         "sizeBytes":  1467823511,
-                         "sha256":  "f75681d3c7fb4980a918c771fd36f273296ef1ddfbab747b480c6bb649d35061",
-                         "url":  "https://github.com/AlexandroLeone/BIM-Familias-Biblioteca/releases/download/v1.0.0/biblioteca-banheiro-01.zip"
-                     },
-                     {
-                         "name":  "biblioteca-portas-e-janelas-01.zip",
-                         "category":  "07 - Portas e Janelas",
-                         "version":  "v1.0.0",
-                         "sizeBytes":  1454735662,
-                         "sha256":  "99360a11ead63758bf8faa584f7a4a7a1e109ef55e1d40a9f4d32a3ea0c82723",
-                         "url":  "https://github.com/AlexandroLeone/BIM-Familias-Biblioteca/releases/download/v1.0.0/biblioteca-portas-e-janelas-01.zip"
-                     },
-                     {
-                         "name":  "biblioteca-iluminacao-e-eletrica-01.zip",
-                         "category":  "11 - Iluminacao e Eletrica",
-                         "version":  "v1.0.0",
-                         "sizeBytes":  1515009068,
-                         "sha256":  "c417222a8fd5de392e4b246939cb5379ebb54a6d447a4a65b8a241fc733f683e",
-                         "url":  "https://github.com/AlexandroLeone/BIM-Familias-Biblioteca/releases/download/v1.0.0/biblioteca-iluminacao-e-eletrica-01.zip"
-                     },
-                     {
-                         "name":  "biblioteca-instalacoes-01.zip",
-                         "category":  "15 - Instalacoes",
-                         "version":  "v1.0.0",
-                         "sizeBytes":  1457323485,
-                         "sha256":  "e587b03e9af9d8c50d96d0180157e5f39be4a17b57f82f7440d06819e35281ae",
-                         "url":  "https://github.com/AlexandroLeone/BIM-Familias-Biblioteca/releases/download/v1.0.0/biblioteca-instalacoes-01.zip"
-                     },
-                     {
-                         "name":  "biblioteca-mobiliario-01.zip",
-                         "category":  "17 - Mobiliario",
-                         "version":  "v1.0.0",
-                         "sizeBytes":  1478467719,
-                         "sha256":  "0ca9743da0fda419ea66e7b2c43a49cf0433c60512b27b7db81b9d686f799af8",
-                         "url":  "https://github.com/AlexandroLeone/BIM-Familias-Biblioteca/releases/download/v1.0.0/biblioteca-mobiliario-01.zip"
-                     },
-                     {
-                         "name":  "biblioteca-a-revisar-01.zip",
-                         "category":  "90 - A revisar",
-                         "version":  "v1.0.0",
-                         "sizeBytes":  1484508155,
-                         "sha256":  "9888694443aa67881aba40956eaec6e71854c05d8e3088eec885e155b3eaa157",
-                         "url":  "https://github.com/AlexandroLeone/BIM-Familias-Biblioteca/releases/download/v1.0.0/biblioteca-a-revisar-01.zip"
-                     },
-                     {
-                         "name":  "biblioteca-a-revisar-02.zip",
-                         "category":  "90 - A revisar",
-                         "version":  "v1.0.0",
-                         "sizeBytes":  1457972645,
-                         "sha256":  "2675320d154a5a7ce9a62034d69a13d97c64a1478c6bf1cd229af1a3bb48403d",
-                         "url":  "https://github.com/AlexandroLeone/BIM-Familias-Biblioteca/releases/download/v1.0.0/biblioteca-a-revisar-02.zip"
-                     },
-                     {
-                         "name":  "biblioteca-a-revisar-03.zip",
-                         "category":  "90 - A revisar",
-                         "version":  "v1.0.0",
-                         "sizeBytes":  91637002,
-                         "sha256":  "a61aa5f527d485235769bec684132fcd1762ea78ba3f0a80ecb128fe6501b1e7",
-                         "url":  "https://github.com/AlexandroLeone/BIM-Familias-Biblioteca/releases/download/v1.0.0/biblioteca-a-revisar-03.zip"
-                     }
-                 ]
+{
+  "schemaVersion": 1,
+  "generatedAtUtc": "2026-10-04T16:01:15.9375991Z",
+  "repository": "https://github.com/AlexandroLeone/BIM-Familias-Biblioteca",
+  "packages": [
+    {
+      "name": "biblioteca-cozinha-01.zip",
+      "category": "01 - Cozinha",
+      "version": "v1.1.0",
+      "sizeBytes": 1483493151,
+      "sha256": "0c06d33e73ba5a47a1478866c1b337dec8de29c7db3931450b8358f749f51003",
+      "url": "https://github.com/AlexandroLeone/BIM-Familias-Biblioteca/releases/download/v1.1.0/biblioteca-cozinha-01.zip"
+    },
+    {
+      "name": "biblioteca-cozinha-02.zip",
+      "category": "01 - Cozinha",
+      "version": "v1.1.0",
+      "sizeBytes": 1501284011,
+      "sha256": "d6871d80971a56ea70e337bb7f5ce5e93a3bb011ea2a17eac4c1661c6cd7dbfe",
+      "url": "https://github.com/AlexandroLeone/BIM-Familias-Biblioteca/releases/download/v1.1.0/biblioteca-cozinha-02.zip"
+    },
+    {
+      "name": "biblioteca-sala-01.zip",
+      "category": "02 - Sala",
+      "version": "v1.1.0",
+      "sizeBytes": 1498254674,
+      "sha256": "6f8d04390a590d6f23866b7ca0c248bee3ac553da1b443dd928d279f3dfc24ff",
+      "url": "https://github.com/AlexandroLeone/BIM-Familias-Biblioteca/releases/download/v1.1.0/biblioteca-sala-01.zip"
+    },
+    {
+      "name": "biblioteca-banheiro-01.zip",
+      "category": "04 - Banheiro",
+      "version": "v1.1.0",
+      "sizeBytes": 1467841924,
+      "sha256": "55a1ff5be7bad891b36e5a29ea5e5d6c62d9ac0dfe74cd65cd73ab0de1f185f2",
+      "url": "https://github.com/AlexandroLeone/BIM-Familias-Biblioteca/releases/download/v1.1.0/biblioteca-banheiro-01.zip"
+    },
+    {
+      "name": "biblioteca-portas-e-janelas-01.zip",
+      "category": "07 - Portas e Janelas",
+      "version": "v1.1.0",
+      "sizeBytes": 1454238728,
+      "sha256": "a6d64f59644ea5c2abd235509525d0769a21b0da8af58df6d537f2388c512193",
+      "url": "https://github.com/AlexandroLeone/BIM-Familias-Biblioteca/releases/download/v1.1.0/biblioteca-portas-e-janelas-01.zip"
+    },
+    {
+      "name": "biblioteca-iluminacao-e-eletrica-01.zip",
+      "category": "11 - Iluminacao e Eletrica",
+      "version": "v1.1.0",
+      "sizeBytes": 1515312416,
+      "sha256": "2bae4b58c4c00a5f06dad984aa21bc939a6e573b614be2bb518fc3aaccd08784",
+      "url": "https://github.com/AlexandroLeone/BIM-Familias-Biblioteca/releases/download/v1.1.0/biblioteca-iluminacao-e-eletrica-01.zip"
+    },
+    {
+      "name": "biblioteca-instalacoes-01.zip",
+      "category": "15 - Instalacoes",
+      "version": "v1.1.0",
+      "sizeBytes": 1459550054,
+      "sha256": "c94eb0159ddfa68d0f83b78d5552e31f3f797eb418bc1f44d49b366a2c16aadd",
+      "url": "https://github.com/AlexandroLeone/BIM-Familias-Biblioteca/releases/download/v1.1.0/biblioteca-instalacoes-01.zip"
+    },
+    {
+      "name": "biblioteca-mobiliario-01.zip",
+      "category": "17 - Mobiliario",
+      "version": "v1.1.0",
+      "sizeBytes": 1477116135,
+      "sha256": "129c7b131010b42640a05cbb354ccd92cf7379eb693ecefeb573356168ce62c7",
+      "url": "https://github.com/AlexandroLeone/BIM-Familias-Biblioteca/releases/download/v1.1.0/biblioteca-mobiliario-01.zip"
+    },
+    {
+      "name": "biblioteca-a-revisar-01.zip",
+      "category": "90 - A revisar",
+      "version": "v1.1.0",
+      "sizeBytes": 1484327393,
+      "sha256": "62ec0dfa79dbd0fef7efe71ad6f7a3ce82daa4816717a6506a99c48caf46bffd",
+      "url": "https://github.com/AlexandroLeone/BIM-Familias-Biblioteca/releases/download/v1.1.0/biblioteca-a-revisar-01.zip"
+    },
+    {
+      "name": "biblioteca-a-revisar-02.zip",
+      "category": "90 - A revisar",
+      "version": "v1.1.0",
+      "sizeBytes": 1458920663,
+      "sha256": "03c0728968578ea618b0d0361267cb63120e50cc1f6113f91feda69bfcbd4528",
+      "url": "https://github.com/AlexandroLeone/BIM-Familias-Biblioteca/releases/download/v1.1.0/biblioteca-a-revisar-02.zip"
+    },
+    {
+      "name": "biblioteca-a-revisar-03.zip",
+      "category": "90 - A revisar",
+      "version": "v1.1.0",
+      "sizeBytes": 90233231,
+      "sha256": "5fc8475fa40ef9bfffdd15efc6cd7ae8cf2befc86de4613080bf1424d459583c",
+      "url": "https://github.com/AlexandroLeone/BIM-Familias-Biblioteca/releases/download/v1.1.0/biblioteca-a-revisar-03.zip"
+    }
+  ]
 }
